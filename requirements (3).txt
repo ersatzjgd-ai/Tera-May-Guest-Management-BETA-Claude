@@ -1,6 +1,4 @@
-streamlit
-pandas
-SQLAlchemy
-extra-streamlit-components
-psycopg2-binary
-streamlit>=1.37.0
+streamlit>=1.35.0
+sqlalchemy>=2.0.0
+pandas>=2.0.0
+streamlit-option-menu>=0.3.6
